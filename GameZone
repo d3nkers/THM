@@ -1,0 +1,39 @@
+Game Zone
+Learn to hack into this machine. Understand how to use SQLMap, crack some passwords, reveal services using a reverse SSH tunnel and escalate your privileges to root!
+
+Q: Deploy the machine and access its web server.
+A: No answer needed
+
+Q: What is the name of the large cartoon avatar holding a sniper on the forum?
+A: Agent 47
+
+Q: When you've logged in, what page do you get redirected to?
+A: portal.php
+
+Q: In the users table, what is the hashed password?
+A: ab5db915fc9cea6c78df88106c6500c57f2b52901ca6c0c6218f04122c3efd14
+
+Q: What was the username associated with the hashed password?
+A: agent47
+
+Q: What was the other table name?
+A: post
+
+Q: What is the de-hashed password?
+A: videogamer124
+
+Q: What is the user flag?
+A: 649ac17b1480ac13ef1e4fa579dac95c
+
+Q: How many TCP sockets are running?
+A: 5
+
+Q: What is the name of the exposed CMS?
+A: webmin
+
+Q: What is the CMS version?
+A: 1.580
+*Login with found credentials
+
+Q: What is the root flag?
+A: a4b945830144bdd71908d12d902adeee
